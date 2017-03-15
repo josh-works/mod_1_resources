@@ -18,7 +18,7 @@ Take a look at this [pairing planner](https://docs.google.com/spreadsheets/d/1L6
 
 Here's the folks you can pair with, along with a blurb from each of them:
 
-#### Josh Thompson
+## Josh Thompson
 
 I like helping other folks. Teaching is a blast to me. Especially in small groups.
 
@@ -32,7 +32,7 @@ Areas of strength:
 - Enumerables
 - TDD
 
-#### Joseph Glass
+## Joseph Glass
 
 I love to explain the 'why' behind code, and I'm a big fan of coding muscle memory (aka repetitive practice!).
 
