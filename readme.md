@@ -77,10 +77,11 @@ Consider keeping a running list of questions that come up throughout the week. T
 
 ## Downloads
 #### Atom Add-ons
-Just search for these under "Settings" then "Packages" in Atom
-* Linter
-* autosave
+Just search for these under "Preferences" (`Cmd + ,`) then "Install" in Atom
 * [indent-guide-improved](https://atom.io/packages/indent-guide-improved)
+* Linter
+* linter-rubocop
+* autosave (just enable this one)
 
 #### [tldr](https://github.com/tldr-pages/tldr)
 * man pages are long and esoteric. Tldr gives a brief summary of what a command actually does.
