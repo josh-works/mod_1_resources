@@ -122,19 +122,29 @@ Testing
 Markdown
 * [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Practice
+### Drills && Practice
+
 [Turing Ruby Exercises](https://github.com/turingschool/ruby-exercises/)
+
 * Start with Core-Types, later do Mythical Creatures. Message a Mod2 student if you need set-up help!
-* [How to get started with Mythical Creatures drills](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8)
+
+[How to get started with Mythical Creatures drills](https://gist.github.com/josh-works/ac68a974cb9e0d73d663ea6c8cf3e8d8)
+
 [HackerRank](https://www.hackerrank.com/dashboard)
+
 * Online, simple progression of Ruby challenges
+
 [CodeWars](https://www.codewars.com/)
+
 * Online, slightly more challenging Ruby exercises
+
 [Exercism](http://exercism.io/)
+
 * Comprehensive Ruby challenges which use Git and Minitest. Advanced, but highly recommended.
 
 
 Turing Links
+
 * [Posses](https://docs.google.com/document/d/1OKjq08T6Wrw9IZi_lAGCHvVbWFRItvI966SLstMXVew/edit)
 * [Friday Spike Sign-ups](https://turing-fridays.firebaseapp.com/)
 * [1701 Resources](https://docs.google.com/spreadsheets/d/1538UAT-AMUB3Pf1OHCJDjZ4ArnhCf_n2FHEZwd3wWpY/edit#gid=0)
